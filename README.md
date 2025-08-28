@@ -1,3 +1,9 @@
+Research 
+I conducted research on several leading AI platforms, including DeepSeek AI, Microsoft Copilot, ChatGPT, and Hugging Face AI. My focus was on analyzing their UI layouts, user experience flow, and design patterns.
+•	From Microsoft Copilot, I found the UI design to be the most visually appealing and user-friendly. I adopted its right-side sign-in panel, where hovering over the sign-in/sign-up button reveals additional user account options and model-related links.
+•	From ChatGPT, I drew inspiration for the search/prompt input section and the model selection dropdown, as they provide a clean and intuitive interaction flow. I also referenced ChatGPT’s response display structure, which presents JSON-like responses in a clear format.
+•	DeepSeek AI’s UI shares similarities with ChatGPT, so I studied its layout for reinforcement of best practices.
+•	For the sidebar design, I created a hybrid layout combining features from both ChatGPT and Copilot, including elements such as new chat history and a logo placement strategy.
 
 
 ### **WelcomeSection**
