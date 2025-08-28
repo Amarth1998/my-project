@@ -1,0 +1,67 @@
+{
+    "responses": [
+      {
+        "id": 1,
+        "prompt": "Explain quantum computing in simple terms",
+        "answer": "Quantum computing uses quantum bits (qubits) which can exist in multiple states at once. This allows quantum computers to solve certain problems much faster than classical computers."
+      },
+      {
+        "id": 2,
+        "prompt": "How to make a website responsive?",
+        "answer": "Use flexible grid layouts, CSS media queries, and relative units like percentages or ems to ensure your website adjusts smoothly across different devices."
+      },
+      {
+        "id": 3,
+        "prompt": "Write a poem about the ocean",
+        "answer": "The ocean whispers secrets deep, / Its endless waves, a song to keep, / A mirror vast, both calm and wild, / Nature’s heart, forever styled."
+      },
+      {
+        "id": 4,
+        "prompt": "What's the best way to learn machine learning?",
+        "answer": "Start with the basics of statistics and linear algebra, practice with Python libraries like scikit-learn and TensorFlow, and apply your knowledge to real-world datasets."
+      },
+      {
+        "id": 5,
+        "prompt": "What is React used for?",
+        "answer": "React is a JavaScript library for building user interfaces, mainly for single-page applications where performance and component reusability are important."
+      },
+      {
+        "id": 6,
+        "prompt": "What is the difference between frontend and backend?",
+        "answer": "Frontend refers to the part of a website users interact with (HTML, CSS, JS). Backend is the server-side that handles data storage, APIs, and business logic."
+      },
+      {
+        "id": 7,
+        "prompt": "What are REST APIs?",
+        "answer": "REST APIs (Representational State Transfer) allow communication between client and server using HTTP methods like GET, POST, PUT, and DELETE."
+      },
+      {
+        "id": 8,
+        "prompt": "What is Git and why is it important?",
+        "answer": "Git is a version control system that helps developers track changes in code, collaborate with teams, and revert to previous versions if needed."
+      },
+      {
+        "id": 9,
+        "prompt": "Explain the difference between SQL and NoSQL databases",
+        "answer": "SQL databases use structured schemas and tables, while NoSQL databases store data in flexible formats like JSON, key-value pairs, or documents."
+      },
+      {
+        "id": 10,
+        "prompt": "How does authentication work in web apps?",
+        "answer": "Authentication verifies user identity, often with email/password, OAuth, or tokens (JWT). Once verified, the user gets access to protected resources."
+      }
+    ],
+    "prompts": [
+      { "id": 1, "text": "Explain quantum computing in simple terms" },
+      { "id": 2, "text": "How to make a website responsive?" },
+      { "id": 3, "text": "Write a poem about the ocean" },
+      { "id": 4, "text": "What's the best way to learn machine learning?" },
+      { "id": 5, "text": "What is React used for?" },
+      { "id": 6, "text": "What is the difference between frontend and backend?" },
+      { "id": 7, "text": "What are REST APIs?" },
+      { "id": 8, "text": "What is Git and why is it important?" },
+      { "id": 9, "text": "Explain the difference between SQL and NoSQL databases" },
+      { "id": 10, "text": "How does authentication work in web apps?" }
+    ]
+  }
+  
